@@ -7,6 +7,8 @@ Anápolis, GO · Winner Tecnologia
 
 Interfaces claras e rápidas, do Figma ao código.
 
+[**Portfólio ↗**](https://portifolio-eduardo-dias.vercel.app/pt) · [**Currículo (PDF) ↗**](https://portifolio-eduardo-dias.vercel.app/curriculo-eduardo-dias-pt.pdf)
+
 [![E-mail](https://img.shields.io/badge/E--mail-dududiaspf%40gmail.com-18181b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dududiaspf@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eduardo--dias-18181b?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/eduardo-dias-8a924131a)
 [![Instagram](https://img.shields.io/badge/Instagram-%40dudu__diaspf-18181b?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/dudu_diaspf/)
@@ -28,7 +30,7 @@ Comecei pela base: montagem de computadores, redes e suporte técnico. Cinco ano
 
 | Projeto | O que é | Stack |
 | :--- | :--- | :--- |
-| **[portifolio](https://github.com/edudiaspf18/portifolio)** | Portfólio bilíngue PT/EN com tema claro/escuro, SEO completo, currículo em PDF gerado e testes e2e. | Next.js 16, React 19, TypeScript, Tailwind v4, next-intl, Playwright |
+| **[portifolio](https://github.com/edudiaspf18/portifolio)** · [site](https://portifolio-eduardo-dias.vercel.app/pt) | Portfólio bilíngue PT/EN com tema claro/escuro, SEO completo, currículo em PDF gerado e testes e2e. | Next.js 16, React 19, TypeScript, Tailwind v4, next-intl, Playwright |
 | **[bora](https://github.com/edudiaspf18/bora)** | Plataforma multi-loja de cardápio digital e pedidos, com autenticação, banco relacional e CI. | Next.js 15, TypeScript, PostgreSQL, Drizzle, Zod, Vitest, Playwright |
 | **[winner-tech](https://github.com/edudiaspf18/winner-tech)** | Site institucional da Winner Tech, com animações de rolagem e SEO. | Next.js, React, TypeScript, GSAP, Lenis |
 | **[lp-esther-duarte](https://github.com/edudiaspf18/lp-esther-duarte)** | Landing de nutrição online com SEO, GA4, cookies e agendamento por WhatsApp. | Next.js, TypeScript, Tailwind, Playwright |
