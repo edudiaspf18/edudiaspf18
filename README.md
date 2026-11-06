@@ -78,12 +78,3 @@ Montagem de computadores, cabeamento estruturado, atendimento primário e suport
 ## Idiomas
 
 Português nativo · Inglês básico
-
----
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=edudiaspf18&show_icons=true&theme=dark&hide_border=true&bg_color=09090b" alt="Estatísticas do GitHub" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edudiaspf18&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=09090b" alt="Linguagens mais usadas" />
-
-</div>
