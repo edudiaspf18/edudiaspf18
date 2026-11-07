@@ -10,7 +10,7 @@ Interfaces claras e rápidas, do Figma ao código.
 [**Portfólio ↗**](https://portifolio-eduardo-dias.vercel.app/pt) · [**Currículo (PDF) ↗**](https://portifolio-eduardo-dias.vercel.app/curriculo-eduardo-dias-pt.pdf)
 
 [![E-mail](https://img.shields.io/badge/E--mail-dududiaspf%40gmail.com-18181b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dududiaspf@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-eduardo--dias-18181b?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/eduardo-dias-8a924131a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eduardodias--dev-18181b?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/eduardodias-dev)
 [![Instagram](https://img.shields.io/badge/Instagram-%40dudu__diaspf-18181b?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/dudu_diaspf/)
 
 </div>
